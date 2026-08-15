@@ -1,5 +1,6 @@
 # TomaTask — Your Friendly Neighborhood Tomato Timer
 
+![Tomatask UI](image.png)
 Track your Pomodoro sessions directly from your Omarchy bar.
 
 A tiny, simple, no-nonsense Pomodoro timer.
