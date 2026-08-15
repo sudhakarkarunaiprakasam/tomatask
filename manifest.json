@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sudhakar.tomatask",
+  "name": "Tomatask",
+  "version": "0.1.0",
+  "author": "sudhakar",
+  "description": "Your Friendly Neighbourhood Tomato Timer",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Tomatask",
+    "description": "Your Friendly Neighbourhood Tomato Timer",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "center"
+  }
+}
